@@ -1,0 +1,27 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset
+data/
+
+# Trained models
+models/
+*.pth
+*.pt
+*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
